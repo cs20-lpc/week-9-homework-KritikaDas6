@@ -1,0 +1,29 @@
+
+=== Simulation: Ticket Counter (ArrayQueue, cap=10) ===
+Total arrivals accepted:      39
+Total arrivals turned away:   24
+Total customers served:       34
+Final line length:            5
+Shortest line observed:       0
+Longest line observed:        10
+Average line length:          6.77
+
+=== Simulation: Hospital Line (LinkedQueue, unbounded) ===
+Total arrivals accepted:      73
+Total arrivals turned away:   0
+Total customers served:       26
+Final line length:            47
+Shortest line observed:       0
+Longest line observed:        48
+Average line length:          25.46
+
+=== Simulation: Airport Check-In (ArrayQueue, cap=15) ===
+Total arrivals accepted:      42
+Total arrivals turned away:   51
+Total customers served:       27
+Final line length:            15
+Shortest line observed:       1
+Longest line observed:        15
+Average line length:          13.42
+
+All simulations completed successfully.
